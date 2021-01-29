@@ -1,0 +1,62 @@
+.add-color{
+    background-color:rgb(255, 249, 250);
+  
+}
+
+.btn{
+    width: 200px;
+    height: 80px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(111, 161, 11);
+}
+.images-size img{
+    width: 250px;
+
+}
+.name-highlight{
+    color: goldenrod;
+
+
+
+}
+
+.addjust img{
+    height: 400px;
+    width: 300px;
+}
+
+.add-size{
+    border-radius: 20px;
+    background-color: rgb(240, 240, 240);
+  
+}
+.remove-boarde{
+    border: none;
+}
+.side-remeove{
+    border: none;
+    background-color: white;
+}
+.text-makeup{
+    color:rgb(233, 178, 39);
+}
+
+.resize-pic img{
+    width: 80px;
+    height: 80px;
+    
+}
+.border-fact{
+    border: none;
+    background-color: white;
+}
+.border-done{
+    border-radius: 15px;
+}
+.re-size img{
+    width: 100%;
+}
+.ending{
+    height: 600px;
+}
